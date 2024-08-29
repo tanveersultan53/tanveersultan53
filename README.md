@@ -17,7 +17,11 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![RabbitMq](https://img.shields.io/badge/-RabbitMq-%FF664?style=flat-square&logo=RabbitMq)
 
+**Fontend**
 
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=React)
+![Next.Js](https://img.shields.io/badge/Next-black?style=flat-square&logo=Next.Js)
 
 
 **Databases**
