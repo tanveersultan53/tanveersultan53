@@ -1,11 +1,35 @@
-- Hi, I’m @tanveersultan53 (M.Tanveer Sultan)👋 
-- I'm Software Developer From Pakistan. 🇵🇰
-- I'm currently live in Lahore, Pakistan. 🇵🇰
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi,M.Tanveer Sultan 👋
 
+I'm a Software Developer and Data Scientist originally from Pakistan 🇵🇰 and currently living in the UK 🇬🇧.
+
+With extensive experience in Python programming and machine learning, I specialize in developing scalable, maintainable software solutions and leveraging data-driven approaches for problem-solving. My expertise lies in creating robust backend systems and implementing advanced machine learning algorithms to solve complex challenges. I excel in cross-functional collaborations, ensuring delivery of innovative solutions aligned with business goals.
+
+My commitment to clean code, adherence to best practices, and a passion for continuous learning define my approach to software and data science. I thrive in dynamic environments and bring exceptional problem-solving skills, effective communication, and a strong sense of ownership to every project.
+
+## 👀 I’m interested in:
+- Pioneering advancements in machine learning and artificial intelligence.
+- Engineering scalable and efficient backend and frontend systems.
+- Leading collaborative efforts in AI-driven and full-stack software development projects.
+- Developing Python-based applications tailored for sectors such as healthcare, fintech, e-commerce, education, logistics, retail, manufacturing, and government.
+
+## 🌱 I’m currently learning:
+- Advanced machine learning, deep learning and natural language processing (NLP) techniques.
+- Cutting-edge methods in computer vision for AI applications.
+- Optimizing machine learning models for production and scalability.
+- Implementing AI-driven data science workflows for real-world applications.
+- Exploring advancements in full-stack development, including modern Python frameworks and seamless React.js integrations.
+- Leveraging caching mechanisms, distributed systems, and microservices for high-performance AI-driven solutions.
+
+## 💞️ I’m looking to collaborate on:
+- Open-source machine learning projects.
+- Developing interactive data visualization tools that leverage AI insights.
+- Real-world AI-powered solutions for businesses with impactful use cases.
+- Full-stack web applications combining Django, React.js, and advanced data-driven insights.
+- Transformative applications in such as healthcare, fintech, e-commerce, education, logistics, retail, manufacturing, and government sectors powered by Python frameworks and machine learning.
+
+## 🎓 Education
+- **2016–2020:** BS Computer Science (BSCS - 3.89 CGPA)
+- **2024:** MSc Advanced Data Science from Bangor University, UK 
 
 **Back-end**
 
@@ -44,24 +68,46 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-White?style=flat-square&logo=kubernetes&logoColor=white)
 
 
-## Skills
+
+## **Skills**
 
 Hands-on experience with:
 
-✅ NumPy ✅ Pandas ✅ Python and JavaScript ✅ Django ✅ Django-REST-framework ✅ Flask ✅ Flask Restful ✅ FastApi ✅ React.js ✅ Express.js ✅ Bootstrap, Material-UI, Semantic, and jQuery ✅ PostgreSQL ✅ MySQL ✅ SQLite ✅ MongoDB ✅ BeautifulSoup ✅ Binance ✅ GIT ✅ GitLab ✅ Bitbucket ✅ ChatGPT
+- **Programming Languages:** Python, JavaScript.
+- **Back-End Development:**
+  - **Frameworks:** Django, Flask, FastAPI
+  - **APIs:** RESTful services, GraphQL
+- **Machine Learning & Data Science:**
+  - **Frameworks/Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
+  - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Database Management:**
+  - **SQL Databases:** PostgreSQL, MySQL, SQLite
+  - **NoSQL Databases:** MongoDB, Redis
+- **DevOps & Cloud Services:**
+  - **Tools:** Docker, Kubernetes, GitLab CI/CD, Jenkins
+  - **Cloud Platforms:** AWS, Azure, Google Cloud Platform
+- **Asynchronous Task Management:**
+  - **Task Queues:** Celery
+  - **Message Brokers:** RabbitMQ, Redis
+- **Version Control & Collaboration:**
+  - **Systems:** Git, GitHub, Bitbucket
+  - **Project Management:** JIRA, Trello
+- **Testing & Debugging:**
+  - **Testing Frameworks:** PyTest, Jest, Selenium
+  - **Debugging Tools:** Chrome DevTools, Postman
+- **Other Relevant Skills:**
+  - **Web Scraping:** BeautifulSoup, Scrapy
+  - **Data Visualization:** Plotly, D3.js
+  - **Agile Methodologies:** Scrum, Kanban
+- **Front-End Development:**
+  - **Frameworks/Libraries:** React.js, Next.js
+  - **Tools:** Bootstrap, Tailwind CSS
 
 
+## Connect with me:
 
-
-You can find me on:
-
-My website: https://tanveer6959612.pythonanywhere.com/
-
-GitHub as @tanveersultan53 (you are here)
-
-LinkedIn as https://www.linkedin.com/in/muhammad-tanveer-sultan-bb3a90166/
-
-<!---
-tanveersultan53/tanveersultan53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Email:** [engr.tanveersultan53@gmail.com](engr.tanveersultan53@gmail.com)
+- **GitHub:** [@tanveersultan53](https://github.com/tanveersultan53)
+- **LinkedIn:** [Muhammad Tanveer Sultan](https://www.linkedin.com/in/muhammad-tanveer-sultan-bb3a90166/)
+- **Medium:** [@engr.tanveersultan53](https://medium.com/@engr.tanveersultan53)
+- **Kaggle:** [https://www.kaggle.com/sultan53](https://www.kaggle.com/sultan53)
