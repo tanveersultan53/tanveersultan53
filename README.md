@@ -1,5 +1,13 @@
 # Hi, I'm M. Tanveer Sultan 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&width=520&lines=Software+Developer+%7C+Data+Scientist;Building+AI-powered+applications+%F0%9F%A4%96;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+React;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+MCP)](https://github.com/tanveersultan53)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tanveer-sultan-bb3a90166/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@engr.tanveersultan53)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sultan53)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:engr.tanveersultan53@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=tanveersultan53&color=blue&style=flat-square)
+
 I'm a **Software Developer and Data Scientist** originally from Pakistan 🇵🇰 and currently living in the UK 🇬🇧.
 
 With extensive experience in Python programming and machine learning, I specialize in developing scalable, maintainable software solutions and leveraging data-driven approaches for problem-solving. My expertise lies in creating robust backend systems, building AI-powered applications, and implementing advanced machine learning algorithms to solve complex challenges. I excel in cross-functional collaborations, ensuring delivery of innovative solutions aligned with business goals.
@@ -76,6 +84,7 @@ Building production-grade AI applications with the latest LLM technologies:
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
@@ -147,6 +156,20 @@ Hands-on experience with:
   - **Web Scraping:** BeautifulSoup, Scrapy
   - **Data Visualization:** Plotly, D3.js, Power BI
   - **Agile Methodologies:** Scrum, Kanban
+
+## ⚡ Fun Facts
+
+- 🧠 I ask AI models more questions per day than I ask humans — and I'm building apps so everyone else can too.
+- 🌍 I've written code that runs in healthcare, fintech, e-commerce, and logistics — same language (Python), very different bugs.
+- 📊 From my MSc in Data Science I learned the most important lesson in ML: 80% of the work is cleaning the data. The other 20% is explaining why the model was wrong.
+- ☕ My debugging stack: coffee, print statements, and *then* the debugger.
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanveersultan53&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveersultan53&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
 
 ## 📫 Connect with me
 
