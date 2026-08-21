@@ -188,13 +188,6 @@ Hands-on experience with:
 - 📊 From my MSc in Data Science I learned the most important lesson in ML: 80% of the work is cleaning the data. The other 20% is explaining why the model was wrong.
 - ☕ My debugging stack: coffee, print statements, and *then* the debugger.
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tanveersultan53&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveersultan53&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
 ## 📫 Connect with me
 
 - **Email:** [engr.tanveersultan53@gmail.com](mailto:engr.tanveersultan53@gmail.com)
