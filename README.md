@@ -54,24 +54,21 @@ Building production-grade AI applications with the latest LLM technologies:
 
 My approach to taking a product from idea to production:
 
-**1. Understand the problem first** 🎯
-I start with the business goal, not the tech stack. I work closely with stakeholders to translate vague requirements into clear user stories, define what success looks like, and identify the riskiest assumptions early.
+```mermaid
+flowchart LR
+    A["🎯 Understand<br/>─────────<br/>Business goal first<br/>User stories<br/>Riskiest assumptions"]
+    B["📐 Design<br/>─────────<br/>Architecture & data models<br/>API contracts<br/>Simplest thing that works"]
+    C["⚡ Ship MVP<br/>─────────<br/>Small increments<br/>Real users early<br/>Fast feedback loops"]
+    D["✅ Quality In<br/>─────────<br/>Code reviews<br/>PyTest · Jest<br/>CI/CD from day one"]
+    E["📈 Measure<br/>─────────<br/>Docker on AWS<br/>Monitoring & logging<br/>Errors · latency · usage"]
+    F["🔁 Iterate<br/>─────────<br/>Data-driven decisions<br/>Honest trade-offs<br/>Relentless improvement"]
 
-**2. Design before code** 📐
-I map out the architecture — data models, API contracts, service boundaries, and how it will scale — and choose the simplest design that solves the problem. Boring technology that works beats exciting technology that might.
+    A --> B --> C --> D --> E --> F
+    F -. "feedback loop" .-> A
+```
 
-**3. Ship an MVP fast, then iterate** ⚡
-I break work into small, releasable increments and get a working version in front of real users early. Fast feedback loops beat perfect first releases — every sprint delivers something usable.
-
-**4. Build quality in, not on top** ✅
-Clean code, code reviews, automated tests (PyTest, Jest), and CI/CD pipelines from day one — so shipping fast never means shipping fragile. Every feature lands with tests and passes through a pipeline before it reaches production.
-
-**5. Deploy, measure, improve** 📈
-Dockerized deployments on AWS with monitoring, logging, and alerting. I track how features actually perform in production — errors, latency, user behavior — and let the data drive the next iteration.
-
-**6. Own it end to end** 🤝
-From the first stakeholder conversation to production support, I take ownership. I document decisions, mentor teammates, communicate trade-offs honestly, and treat the product like it's mine — because on my team, it is.
-
+> 🤝 **End-to-end ownership** at every stage — from the first stakeholder conversation to production support: document decisions, mentor teammates, communicate trade-offs honestly, and treat the product like it's mine.
+>
 > **In short:** understand deeply → design simply → ship early → test everything → measure honestly → iterate relentlessly.
 
 ## 🎓 Education
