@@ -56,15 +56,42 @@ My approach to taking a product from idea to production:
 
 ```mermaid
 flowchart LR
-    A["🎯 Understand<br/>─────────<br/>Business goal first<br/>User stories<br/>Riskiest assumptions"]
-    B["📐 Design<br/>─────────<br/>Architecture & data models<br/>API contracts<br/>Simplest thing that works"]
-    C["⚡ Ship MVP<br/>─────────<br/>Small increments<br/>Real users early<br/>Fast feedback loops"]
-    D["✅ Quality In<br/>─────────<br/>Code reviews<br/>PyTest · Jest<br/>CI/CD from day one"]
-    E["📈 Measure<br/>─────────<br/>Docker on AWS<br/>Monitoring & logging<br/>Errors · latency · usage"]
-    F["🔁 Iterate<br/>─────────<br/>Data-driven decisions<br/>Honest trade-offs<br/>Relentless improvement"]
+    subgraph P1["&nbsp;💡 DISCOVER&nbsp;"]
+        A["🎯 <b>Understand</b><br/>─────────<br/>Business goal first<br/>User stories<br/>Riskiest assumptions"]
+        B["📐 <b>Design</b><br/>─────────<br/>Architecture & data models<br/>API contracts<br/>Simplest thing that works"]
+    end
 
-    A --> B --> C --> D --> E --> F
-    F -. "feedback loop" .-> A
+    subgraph P2["&nbsp;🛠️ BUILD&nbsp;"]
+        C["⚡ <b>Ship MVP</b><br/>─────────<br/>Small increments<br/>Real users early<br/>Fast feedback loops"]
+        D["✅ <b>Quality In</b><br/>─────────<br/>Code reviews<br/>PyTest · Jest<br/>CI/CD from day one"]
+    end
+
+    subgraph P3["&nbsp;🚢 RUN & GROW&nbsp;"]
+        E["📈 <b>Measure</b><br/>─────────<br/>Docker on AWS<br/>Monitoring & logging<br/>Errors · latency · usage"]
+        F["🔁 <b>Iterate</b><br/>─────────<br/>Data-driven decisions<br/>Honest trade-offs<br/>Relentless improvement"]
+    end
+
+    A ==> B ==> C ==> D ==> E ==> F
+    F -. "🔄 feedback loop" .-> A
+
+    classDef understand fill:#1f6feb,stroke:#388bfd,color:#ffffff,stroke-width:2px
+    classDef design fill:#8250df,stroke:#a371f7,color:#ffffff,stroke-width:2px
+    classDef ship fill:#e16f24,stroke:#f0883e,color:#ffffff,stroke-width:2px
+    classDef quality fill:#1a7f37,stroke:#2ea043,color:#ffffff,stroke-width:2px
+    classDef measure fill:#0f7b8a,stroke:#39c5cf,color:#ffffff,stroke-width:2px
+    classDef iterate fill:#cf222e,stroke:#ff7b72,color:#ffffff,stroke-width:2px
+    classDef phase fill:transparent,stroke:#8b949e,stroke-width:1.5px,stroke-dasharray:6 4,color:#8b949e
+
+    class A understand
+    class B design
+    class C ship
+    class D quality
+    class E measure
+    class F iterate
+    class P1,P2,P3 phase
+
+    linkStyle 0,1,2,3,4 stroke:#58a6ff,stroke-width:3px
+    linkStyle 5 stroke:#ff7b72,stroke-width:2.5px
 ```
 
 > 🤝 **End-to-end ownership** at every stage — from the first stakeholder conversation to production support: document decisions, mentor teammates, communicate trade-offs honestly, and treat the product like it's mine.
